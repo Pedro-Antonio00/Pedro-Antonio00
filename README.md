@@ -1,4 +1,4 @@
 ### Oi, eu sou o Pedro Antonio 👋
 
-- 🌱 Estudando programação
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: ...
